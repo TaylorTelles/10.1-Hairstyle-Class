@@ -1,8 +1,6 @@
 Taylor Telles
 Assignment 10.1: Your Own Class
 
-GitHub: 
-
 The class I have created is a simple tool for creating and editing a hairstyle. With this class you can define the initial
 color and length of the hairstyle, but can also override these values later on. You can also cut the hair a desired amount
 of inches or add a desired length of extensions to the hair.
